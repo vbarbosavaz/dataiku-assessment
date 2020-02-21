@@ -1,0 +1,23 @@
+data/*
+!data/names.csv
+!data/us_census_full.zip
+!data/us_states.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
