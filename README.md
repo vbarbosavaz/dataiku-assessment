@@ -2,7 +2,7 @@
 
 Dataiku Machine Learning test for interviewees.
 
-**Keywords:** Machine learning, Data Visualization
+**Keywords:** Machine learning, Data Visualization, Plotly
 
 **Author:** Vincent Barbosa Vaz
 
@@ -19,8 +19,8 @@ I strongly recommend not to use the PDF rendered version of the notebook (the **
 **Clone the project**
 
 ```bash
-git clone https://github.com/v-barbosavaz/dataiku_assessment
-cd dataiku_assessment
+git clone https://github.com/v-barbosavaz/dataiku-assessment
+cd dataiku-assessment
 ```
 
 **Unzip data archive**
@@ -75,3 +75,8 @@ pip freeze
 ```bash
 pip freeze > requirements.txt
 ```
+
+## Datasets
+
+- List of State Abbreviations, [http://worldpopulationreview.com/states/state-abbreviations](http://worldpopulationreview.com/states/state-abbreviations/)
+- US Census, extracted from the census bureau database found at : [https://www.census.gov](https://www.census.gov/)
