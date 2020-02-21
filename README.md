@@ -8,6 +8,12 @@ Dataiku Machine Learning test for interviewees.
 
 **Date:** February 21, 2020
 
+## Note
+
+I added a PDF version for convenience.
+
+I strongly recommend not to use the PDF rendered version of the notebook (the **rendering is poor** and **does not exploit the interactive functionality of Plotly**) but rather run the notebook and have fun with graphics.
+
 ## Run the project
 
 **Clone the project**
@@ -26,13 +32,13 @@ Move every files from **us_census_full** folder in **data** folder (parent direc
 **Create the environment**
 
 ```bash
-python3 -m venv venv
+python3 -m venv env
 ```
 
 **Activate the environment and install libraries**
 
 ```bash
-source venv/bin/activate
+source env/bin/activate
 pip install -r requirements.txt
 ```
 
